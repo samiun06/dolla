@@ -7,4 +7,4 @@ Technologies used
 - Bootstrap
 - Responsive Design
 
-hopeful-lichterman-e7746d.netlify.app
+https://dollarbanking.netlify.app
